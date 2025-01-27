@@ -15,6 +15,4 @@
 <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] paulosil1798@gmail.com
-
 Apaixonado por tecnologia e programação!
