@@ -4,7 +4,7 @@
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=paulosilva1998&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulosilva1998&layout=donut)](https://github.com/paulosilva1998/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulosilva1998&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
